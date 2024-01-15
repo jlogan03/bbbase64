@@ -1,6 +1,6 @@
 [package]
 name = "bbbase64"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 authors = ["James Logan <jlogan03@gmail.com>"]
 description = "Bare-Bones Base64: no-std, heapless, memory-safe encoding/decoding library for embedded"
